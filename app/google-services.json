@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "224788413535",
+    "firebase_url": "https://talk-na-e0eee-default-rtdb.firebaseio.com",
+    "project_id": "talk-na-e0eee",
+    "storage_bucket": "talk-na-e0eee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224788413535:android:422e666f0f3fdca61defea",
+        "android_client_info": {
+          "package_name": "com.talk.talkna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224788413535-thj9pmkeob3m7foftqa5lrunfd3gtkff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJX4kPwC3w6mRXHUYgffglwFPj7aLaj0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224788413535-thj9pmkeob3m7foftqa5lrunfd3gtkff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
